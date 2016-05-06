@@ -1,0 +1,6 @@
+node_modules/
+database_bot/
+db/
+.DS_Store
+*/.DS_Store
+.env
